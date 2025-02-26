@@ -38,7 +38,7 @@ routerPokemon.get("/:pokemon", (req,res)=>{
 //app.use(cors());
 
 app.listen(PUERTO,()=>{
-  console.log("Probando...")
+  console.log("MAS Probando...")
 });
 
 
