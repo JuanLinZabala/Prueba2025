@@ -13,6 +13,7 @@ botonBuscar.addEventListener("click",()=>{
     if (isDone && isOk) {
       const info = api.response;
       console.log(info);
+      console.log("HOLA");
       img.innerHTML = "<img src= " + "'"+ info.sprites.front_default +"'>" + "<img src= " + "'"+ info.sprites.front_shiny +"'>"; 
     }
   });
