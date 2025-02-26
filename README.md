@@ -1,2 +1,5 @@
 Este es el README
-#Algo
+
+##Algo
+## Titulo
+## Titulo2
